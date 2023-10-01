@@ -30,7 +30,6 @@
   <br>
   📫 How to reach me: <a href="mailto: umarsohail1998@gmail.com">umarsohail1998@gmail.com</a>
 </p>
-
 <p align="center" style="font-size: 20px;">
 Check out my freelancing profiles: <a href="https://www.fiverr.com/your-fiverr-username">Fiverr</a>, <a href="https://www.upwork.com/freelancers/your-upwork-username">Upwork</a>
 </p>
