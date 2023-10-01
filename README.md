@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=umarsohail1998.umarsohail1998">
+<img align="right" src="https://komarev.com/ghpvc/?username=umarsohail1998&color=green">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
