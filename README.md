@@ -18,7 +18,7 @@
   <code><a href="https://www.instagram.com/umarsohail98/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
+<p align="center" size=20px>
   Hi, I'm Umar Sohail, ML Ops Engineer & Data Scientist from Pakistan
   <br>
   <br>
