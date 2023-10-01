@@ -32,7 +32,7 @@
 </p>
 
 <p align="center" style="font-size: 20px;">
-Check out my freelancing profiles:<br>
+Check out my freelancing profiles: 
 <a href="https://www.fiverr.com/your-fiverr-username">Fiverr</a>,
 <a href="https://www.upwork.com/freelancers/your-upwork-username">Upwork</a>
 </p>
