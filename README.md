@@ -31,6 +31,13 @@
   📫 How to reach me: <a href="mailto: umarsohail1998@gmail.com">umarsohail1998@gmail.com</a>
 </p>
 
+<p>Check out my freelancing profiles:</p>
+<ul>
+    <li><a href="https://www.fiverr.com/your-fiverr-username">Fiverr Profile</a></li>
+    <li><a href="https://www.upwork.com/freelancers/your-upwork-username">Upwork Profile</a></li>
+</ul>
+
+
 <hr>
 
 <h2 align="center">⚡ Languages and Tools   ⚡</h2>
