@@ -9,6 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mumarsohail/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/umarsohail" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.hackerrank.com/umarsohail" title="Kaggle Profile"><img width="22" src="images/kaggle.png"> Kaggle</a></code>
   <code><a href="https://www.instagram.com/umarsohail98/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
