@@ -12,6 +12,8 @@
   <code><a href="https://www.kaggle.com/umarsohail98" title="Kaggle Profile"><img width="22" src="images/kaggle.png"> Kaggle</a></code>
   <code><a href="https://medium.com/@umarsohail1998" title="Medium Profile"><img width="22" src="images/medium.png"> Medium</a></code>
   <code><a href="https://huggingface.co/Muhammad-Umar-Sohail" title="HuggingFace Profile"><img width="22" src="images/hf.png"> Hugging Face</a></code>
+  <code><a href="https://dev.to/umarsohail1998" title="Dev.io Profile"><img width="22" src="images/dev.png"> Dev.io</a></code>
+  <code><a href="https://hashnode.com/@UmarSohail" title="Hashnode Profile"><img width="22" src="images/hashnode.png"> Hashnode Face</a></code>
   <code><a href="https://twitter.com/M_Umar_Sohail" title="Twitter Profile"><img width="22" src="images/twitter.png"> X</a></code>
   <code><a href="https://www.instagram.com/umarsohail98/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
